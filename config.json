@@ -1,0 +1,13 @@
+{
+  "nvidia_url": "https://www.nvidia.com/en-gb/geforce/",
+  "check_interval": 30,
+  "discord_webhook": "https://discord.com/api/webhooks/1337897879330619423/oIUA56YmC3GZAfU3m5AVmNEgCBkCFQmFjuWcoqd8wtHvu91kzBwm3JYq_Y4ms6UP3pui",
+  "email_notifications": {
+    "enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email": "jimcai416@gmail.com",
+    "password": "exur pkyp imdr meyd",
+    "recipient": "jimcai416@gmail.com"
+  }
+}
